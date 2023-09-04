@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stuti Singhal
 - 👀 I’m interested in mobile applicatiuon development.
-- 🌱 I’m currently learning react-native.
+- 🌱 I’m currently exploring react-native in depth.
 - 📫 Reach me over stuti.s@fullfily.com . 
 
 <!---
